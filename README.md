@@ -1,4 +1,4 @@
-# Embedded-Password-Based-Security-System
+# Embedded-Password-Based-Security-Device-Control-System
 AT89S52, LCD Display, DS1307, Relay, LED, Keypad, Switch, Buzzer
 when the circuit is switched on, project name is displayed, then user id selection options are displayed next.
 After the user selects any option, the password for that user is asked.
