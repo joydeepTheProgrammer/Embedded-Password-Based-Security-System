@@ -6,12 +6,6 @@ A password-based embedded security system developed in Embedded C that authentic
 
 ## 📷 Circuit Diagram
 
-<p align="center">
-  <img src="images/circuit.png" alt="Password Based Security System Circuit" width="750">
-</p>
-
-## 📷 Circuit Diagram
-
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/2279d387-2718-4f91-8809-9a2404fe669e" />
 
 The circuit consists of:
