@@ -105,4 +105,22 @@ Unlock      Access Denied
 ## 📜 License
 
 MIT License
-![IMG-20221013-WA0002](https://user-images.githubusercontent.com/76057623/214027823-02081c27-404f-4ac8-b05a-617fdcc9d549.jpg)
+
+## 📷 Circuit Diagram
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76057623/214027823-02081c27-404f-4ac8-b05a-617fdcc9d549.jpg"
+       alt="Password Based Security System Circuit Diagram"
+       width="800">
+</p>
+
+The circuit consists of:
+
+- **AT89S52 (8051) Microcontroller** – Main controller
+- **16×2 LCD** – Displays prompts and authentication status
+- **4×4 Matrix Keypad** – Used to enter the password
+- **Relay Driver Circuit** – Controls the electronic lock/load
+- **Buzzer** – Indicates incorrect password attempts
+- **Reset Circuit** – Initializes the microcontroller
+- **Crystal Oscillator** – Provides the system clock
+- **Power Supply** – 5V regulated supply for the complete system
