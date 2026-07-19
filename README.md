@@ -138,7 +138,7 @@ SOFTWARE.
 
 ## 📷 Circuit Diagram
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d4588bd6-19e4-489c-b12e-c377e0c5ce51" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/2279d387-2718-4f91-8809-9a2404fe669e" />
 
 The circuit consists of:
 
