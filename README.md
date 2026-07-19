@@ -138,11 +138,7 @@ SOFTWARE.
 
 ## 📷 Circuit Diagram
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/76057623/214027823-02081c27-404f-4ac8-b05a-617fdcc9d549.jpg"
-       alt="Password Based Security System Circuit Diagram"
-       width="800">
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d4588bd6-19e4-489c-b12e-c377e0c5ce51" />
 
 The circuit consists of:
 
