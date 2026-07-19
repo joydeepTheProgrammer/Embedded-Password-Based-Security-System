@@ -8,6 +8,7 @@ A password-based embedded security system developed in Embedded C that authentic
 
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/2279d387-2718-4f91-8809-9a2404fe669e" />
 
+
 The circuit consists of:
 
 - **AT89S52 (8051) Microcontroller** – Main controller
