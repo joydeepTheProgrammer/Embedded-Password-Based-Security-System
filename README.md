@@ -10,6 +10,20 @@ A password-based embedded security system developed in Embedded C that authentic
   <img src="images/circuit.png" alt="Password Based Security System Circuit" width="750">
 </p>
 
+## 📷 Circuit Diagram
+
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/2279d387-2718-4f91-8809-9a2404fe669e" />
+
+The circuit consists of:
+
+- **AT89S52 (8051) Microcontroller** – Main controller
+- **16×2 LCD** – Displays prompts and authentication status
+- **4×4 Matrix Keypad** – Used to enter the password
+- **Relay Driver Circuit** – Controls the electronic lock/load
+- **Buzzer** – Indicates incorrect password attempts
+- **Reset Circuit** – Initializes the microcontroller
+- **Crystal Oscillator** – Provides the system clock
+- **Power Supply** – 5V regulated supply for the complete system
 ---
 
 ## 🛠 Hardware Components
@@ -136,17 +150,4 @@ SOFTWARE.
 
 ---
 
-## 📷 Circuit Diagram
 
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/2279d387-2718-4f91-8809-9a2404fe669e" />
-
-The circuit consists of:
-
-- **AT89S52 (8051) Microcontroller** – Main controller
-- **16×2 LCD** – Displays prompts and authentication status
-- **4×4 Matrix Keypad** – Used to enter the password
-- **Relay Driver Circuit** – Controls the electronic lock/load
-- **Buzzer** – Indicates incorrect password attempts
-- **Reset Circuit** – Initializes the microcontroller
-- **Crystal Oscillator** – Provides the system clock
-- **Power Supply** – 5V regulated supply for the complete system
